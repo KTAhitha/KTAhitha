@@ -199,38 +199,6 @@ Currently working on projects focused on:
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
 # 🧠 Problem Solving
 
 <div align="center">
