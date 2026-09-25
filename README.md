@@ -66,7 +66,7 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=java,c,javascript" />
+<img src="https://skillicons.dev/icons?i=java,c,python" />
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 
 </div>
 
@@ -98,7 +98,7 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 
 </div>
 
