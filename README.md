@@ -131,10 +131,6 @@ A Spring Boot-based application designed to help students manage career and plac
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME/CareerForge">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </td>
 
 <td width="50%">
@@ -150,10 +146,6 @@ A QR-based system for monitoring household waste segregation compliance, recordi
 `Next.js` `Node.js` `Database` `QR`
 
 <br>
-
-<a href="https://github.com/YOUR_USERNAME/Smart-Waste-Segregation-System">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </td>
 </tr>
@@ -172,10 +164,6 @@ A web application designed to manage alumni information and improve interaction 
 `PHP` `MySQL` `HTML` `CSS`
 
 <br>
-
-<a href="https://github.com/YOUR_USERNAME/Alumni-Management-System">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </td>
 
